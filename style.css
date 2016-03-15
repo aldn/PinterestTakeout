@@ -1,0 +1,19 @@
+
+body {
+	text-align: center;
+}
+
+div.item{
+	display: block;
+}
+
+div.item_pic img {
+	max-height: 100%;
+	height: calc(100vh - 5em);
+	width: auto;
+}
+
+
+div.item_desc {
+	margin-bottom: 2em;
+}
